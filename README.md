@@ -236,4 +236,4 @@ This project is licensed under the MIT License - see below for details:
 
 ## ✨ Features & Bugs
 
-Please file feature requests and bugs at the [issue tracker](link-to-your-repository/issues).
+Please file feature requests and bugs at the [issue tracker](https://github.com/odmaroliv/rop/issues).
