@@ -21,7 +21,7 @@ import 'package:rop/rop.dart';
 
 ## 🚀 Core Structure
 
-### Result<T>
+### `Result<T>`
 
 `Result<T>` is a generic class that represents the outcome of an operation. It can be:
 
